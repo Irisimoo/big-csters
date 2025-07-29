@@ -1,4 +1,4 @@
-# Big CSters Mentorship Matching
+# Big CSters Mentorship Matching 💗
 
 The big_csters script automates the matching and email generation for the Big CSters mentorship program. 
 
