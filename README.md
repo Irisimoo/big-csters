@@ -1,6 +1,8 @@
 # Big CSters Mentorship Matching
 
-The big_csters script automates the matching and email generation for the Big CSters mentorship program. Features: 
+The big_csters script automates the matching and email generation for the Big CSters mentorship program. 
+
+### Features: 
 - Parse mentor and mentee information from CSV files (download directly from google form)
 - Experiment with generating matches from different matching algorithms, you can customize weightings in match.py (greedy, weighted bipartite matching, stable matching, gata-mixed (optimal + stability + priority), integer linear programming)
 - Compare different matching algorithms
